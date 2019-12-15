@@ -42,5 +42,5 @@ top-level `run.py` file is the entrypoint to the Spark application.
    development, you only need to call this if you change your dependencies.
 
 4. Run `submit.sh` to submit the application to the cluster.
-  * This script packs the application files to the `app.zip`, so edit as needed.
+   * This script packs the application files to the `app.zip`, so edit as needed.
 
