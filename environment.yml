@@ -1,0 +1,10 @@
+channels:
+  - defaults
+dependencies:
+  - python=3.7.5=h0371630_0
+  - pip:
+    - numpy==1.17.4
+    - pandas==0.25.3
+    - pyarrow==0.14.1
+    - conda-pack==0.4.0
+
